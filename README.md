@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a javascript Developer that focuses on React, Nodejs, UI Design, and Serverless technologies such as Gatsby and Strapi, Firebase, and AWS. To grow my skills I focus on building a mobile App using React Native library called Life Long Learning.
+I am a Web Developer that focuses on React, Nodejs, UI Design, and Serverless technologies such as Gatsby and Strapi, and Firebase. To grow my skills I focus on building a mobile App using React Native library called Life Long Learning.
 
 <!--
 **yue-su/yue-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
