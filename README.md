@@ -6,9 +6,7 @@ I am a Web Developer that focuses on React, Nodejs, UI Design, and Serverless te
 
 ### 💻 I'm working on
 
-Currently, I am working on a project that aims to migrate a company's website from WordPress to a JAM stack (Gatsby + Contentful).
-
-The more I use Gatsby the more I appreciate the benefits in terms of server-side rendering. The loading speed is lightning fast ⚡, and there are tons of plugins that you can utilize for sourcing any type of content. It could be a Markdown file, a dropbox folder, or even a google sheet.
+Currently, I am working on a project that aims to migrate a company's website from WordPress to a JAM stack (Gatsby + GraphQL + Contentful).
 
 Here is a [preview](https://elegant-curran-fa5b93.netlify.app/) of the website if you are interested.
 
