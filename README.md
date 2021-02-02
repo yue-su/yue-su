@@ -6,7 +6,7 @@ I am a Web Developer that focuses on React, Nodejs, UI Design, and Serverless te
 
 [LinkedIn](https://www.linkedin.com/in/suxyue/) | [Dev.to](https://dev.to/yuesu)
 
-![image](https://www.codewars.com/users/yue-su/badges/small)
+[![image](https://www.codewars.com/users/yue-su/badges/small)](https://www.codewars.com/users/yue-su)
 
 ### 💻 I'm working on
 
