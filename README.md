@@ -2,7 +2,11 @@
 
 I am a Web Developer that focuses on React, Nodejs, UI Design, and Serverless technologies such as Gatsby and Firebase.
 
-**My Online Presence**: [LinkedIn](https://www.linkedin.com/in/suxyue/) | [Dev.to](https://dev.to/yuesu)
+**My Online Presence**:
+
+[LinkedIn](https://www.linkedin.com/in/suxyue/) | [Dev.to](https://dev.to/yuesu)
+
+![image](https://www.codewars.com/users/yue-su/badges/small)
 
 ### 💻 I'm working on
 
@@ -20,7 +24,6 @@ While I'm trying to go deep in React and Javascript, the next thing I really wan
 
   - Stack: Material UI, React, Nodejs
   - Features: real-time messaging, login with google, etc
-  - Libraries: Sequelize, Express, Sockt.io, React-router, Axios, JWT, query-string
 
     [Repo](https://github.com/yue-su/Web-Messenger) | [Demo](https://messenger-web-front.herokuapp.com/)
 
@@ -28,7 +31,6 @@ While I'm trying to go deep in React and Javascript, the next thing I really wan
 
   - Stack: Material UI, React, Googl Firebase
   - Features: real-time notes syncing with Firestore, google OAuth
-  - Libraries: react-router, firebase, clsx, moment
 
     [Repo](https://github.com/hopea-studio/mini-blog) | [Demo](https://blog-8877.web.app/)
 
