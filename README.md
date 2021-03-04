@@ -12,7 +12,7 @@ I am a Web Developer that focuses on React, Nodejs, UI Design, and Serverless te
 
 Currently, I am working on a project that aims to migrate a company's website from WordPress to a JAM stack (Gatsby + GraphQL + Contentful).
 
-Here is a [preview](https://elegant-curran-fa5b93.netlify.app/) of the website if you are interested.
+Here is a [preview](https://www.helenge.com/) of the website if you are interested.
 
 ### 🌱 I'm learning
 
