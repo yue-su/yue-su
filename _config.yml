@@ -1,10 +1,10 @@
-title: Yue's blog # name of the site
+title: Yue Su # name of the site
 author: Yue Su # name of site's author
 email: su2047@gmail.com # email of site's author
-url: https://yue-su.github.io # root address of the site
-baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+url: https://yue-su.dev # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Yue's thoughts and memories.
+  Web developer and free writer
 
 permalink: /:slug.html
 

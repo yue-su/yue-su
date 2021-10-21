@@ -4,27 +4,8 @@
 entries:
   - title: About me
     entries:
-      - title: a short intro
+      - title: a short Bio
         url: about
-
-  - title: Posts
-    post_list:
-      limit: 5
-      show_more: true
-      how_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: Personal
-    post_list:
-      category: personal
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: archive_personal.html
-
-  - title: Resources
-    entries:
-      - title: Web Development
-        url: web
-      - title: Bookmarks
-        url: bookmarks
+      - title: resume
+      - title: portfolio
+      - title: blog
